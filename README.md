@@ -14,8 +14,6 @@
 
 *A sophisticated machine learning defense system that combats deceptive e-commerce reviews using advanced Natural Language Processing and Support Vector Machine classification with 80.36% accuracy*
 
-[🚀 Quick Start](#-advanced-deployment-guide) • [📊 Performance](#-performance-specifications--benchmarks) • [🧠 Architecture](#-system-architecture) • [📈 Results](#-results--system-output) • [🤝 Contribute](#-contributing--collaboration)
-
 </div>
 
 ---
