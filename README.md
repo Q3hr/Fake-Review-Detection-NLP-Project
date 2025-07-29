@@ -20,16 +20,6 @@
 
 ---
 
-## 🏆 Achievement: University Research Project Excellence
-
-*Developed by the Cybersecurity Research Team at University of Wah*
-
-**Team Recognition:**
-- **Ibrar Ul Hassan Shami** (UW-23-CY-BS-018) - Lead ML Engineer
-- **Muhammad Azfar Waqas** (UW-23-CY-BS-013) - NLP Specialist  
-- **Saad Ali** (UW-23-CY-BS-050) - Data Science Researcher
-
----
 
 ## 🎯 Project Overview
 
@@ -827,11 +817,11 @@ This project is released under an **Academic & Research-Only License** with the 
 **🎓 Developed as a Semester 3 Research Project in Cybersecurity**  
 *Detecting deceptive reviews through machine learning and NLP-powered systems*
 
-[![Institution](https://img.shields.io/badge/University-University_of_Wah-blue.svg)](#)  
-[![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)  
-[![Course](https://img.shields.io/badge/Course-Information_Security-teal.svg)](#)  
-[![Semester](https://img.shields.io/badge/Semester-3rd-green.svg)](#)  
-[![Type](https://img.shields.io/badge/Project-Type%3A_Research-orange.svg)](#)
+[![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
+[![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Information_Security-teal.svg)](#)
+[![Semester](https://img.shields.io/badge/Semester-3rd-green.svg)](#)
+[![Project](https://img.shields.io/badge/Type-Research_Project-orange.svg)](#)
 
 ---
 
