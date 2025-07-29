@@ -819,7 +819,7 @@ This project is released under an **Academic & Research-Only License** with the 
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
-[![Course](https://img.shields.io/badge/Course-Information_Security-teal.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Artificial_Intelligence-teal.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-3rd-green.svg)](#)
 [![Project](https://img.shields.io/badge/Type-Research_Project-orange.svg)](#)
 
