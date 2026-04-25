@@ -36,6 +36,30 @@ This project represents a **cutting-edge cybersecurity defense mechanism** that 
 
 ---
 
+## 👥 Project Team & Contributions
+
+This semester project was collaboratively developed as part of an academic research initiative focused on machine learning and natural language processing for detecting deceptive online reviews. The team worked on different stages of the ML pipeline, including data preprocessing, feature engineering, model training, and evaluation.
+
+### 👨‍💻 Saad Ali  
+- **Registration Number:** UW-23-CY-BS-050  
+- **GitHub:** https://github.com/Saadi-09  
+
+**Contribution:**  
+Contributed to the implementation of the NLP preprocessing pipeline, including text cleaning, normalization, and feature extraction using TF-IDF. Assisted in model training using SVM, tuning parameters, and evaluating performance metrics such as accuracy, precision, and recall. Also participated in testing predictions and refining the overall classification workflow.
+
+---
+
+### 👨‍💻 Muhammad Azfar Waqas  
+- **Registration Number:** UW-23-CY-BS-013  
+- **GitHub:** https://github.com/MAK554267  
+
+**Contribution:**  
+Worked on dataset preparation and integration of metadata features. Assisted in training the classification model, validating results, and analyzing model performance. Contributed to organizing the pipeline structure and ensuring smooth execution from preprocessing to prediction stages.
+
+### Supervisor: Sir Mansoor Iqbal
+### Course: Artificial Intelligence (AI)
+
+---
 ## 🏗️ System Architecture
 
 ### Advanced Multi-Component ML Pipeline
