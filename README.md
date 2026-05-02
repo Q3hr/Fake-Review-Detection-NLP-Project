@@ -56,6 +56,17 @@ Contributed to the implementation of the NLP preprocessing pipeline, including t
 **Contribution:**  
 Worked on dataset preparation and integration of metadata features. Assisted in training the classification model, validating results, and analyzing model performance. Contributed to organizing the pipeline structure and ensuring smooth execution from preprocessing to prediction stages.
 
+---
+
+---
+
+### 👨‍💻 Muhammad Haris  
+- **Registration Number:** UW-22-CS-BS-032
+- **GitHub:** https://github.com/ShellCMD101
+
+**Contribution:**  
+Designed the core classification engine using Support Vector Machines (SVM) and implemented the TF-IDF vectorization strategy with bigram analysis. Optimized the NLP pipeline for scalability, ensuring the system could process 1000+ reviews per minute. Handled the hyperparameter tuning for the linear kernel and managed the model serialization process using Pickle for production-ready deployment.
+
 ### Supervisor: Sir Mansoor Iqbal
 ### Course: Artificial Intelligence (AI)
 
